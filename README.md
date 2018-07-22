@@ -10,7 +10,7 @@ anymore.
 
 **Handler**: Language/Rust.
 
-- <./language/rust/guessing-game>
+- [guessing-game](language/rust/guessing-game)
 
 ## License
 
