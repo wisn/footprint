@@ -1,0 +1,9 @@
+package: .
+homepage: https://github.com/wisn/footprint
+license: MIT
+description: A Go exercise in Loops and Functions section
+owners:
+- name: Wisnu Adi Nurcahyo
+  email: wisn.adn@gmail.com
+  homepage: https://wisn.github.io/
+import: []
