@@ -7,7 +7,7 @@ an input.
 ## Instruction
 
 Run `go build` to compile the program. Then, run `./square-root` to run the
-program. If you want to quite, just input `0`.
+program. If you want to quit, just input `0`.
 
 ## License
 
